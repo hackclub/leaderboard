@@ -3,7 +3,7 @@
 # Directory
 
 Welcome to Hack Club APAC Directory, a Directory like never before 🚀
-This is the frontend of the Directory, deployed at [https://apacdirectory.hackclub.com](apacdirectory.hackclub.com).
+This is the frontend of the Directory, deployed at https://apacdirectory.hackclub.com.
 
 ## Docs/Guide
 
